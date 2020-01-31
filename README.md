@@ -28,5 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Commands
 
-ng g m <name module> --routing
-ng g c <name module>/<name component>
+`ng g m <name module> --routing`   
+`ng g c <name module>/<name component>`
